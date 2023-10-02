@@ -4,7 +4,7 @@
 03-bases-node/node_modules/
 04-tareas-terminal/node_modules/
 05-clima-app/node_modules/
-
+06-webserver/node_modules/
 
 03-bases-node/salida/*.txt
 04-tareas-terminal/*.json
